@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-I'm a software developer, I'm 29 years old and currently living in Argentina. 
+I'm a software developer, I'm 30 years old and currently living in Argentina. 
 
 
 ## 🛠 Skills
@@ -16,6 +16,8 @@ I'm a software developer, I'm 29 years old and currently living in Argentina.
 - Express
 - Mongo DB
 - MySQL
+- Docker
+- AWS
 
 
 ## 🔗 Links
