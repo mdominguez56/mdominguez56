@@ -23,4 +23,4 @@ I'm a software developer with expertise in full-stack development. Additionally,
 - Docker
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-dominguez-5759b8237/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-dom%C3%ADnguez-alonso-5759b8237/)
