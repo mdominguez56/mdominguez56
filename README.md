@@ -16,7 +16,7 @@ I'm a software developer with expertise in full-stack development. Additionally,
 - Next JS
 
 ### DevSecOps
-- AWS
+- AWS (EC2, S3, IAM, Cloudwatch, VPCs, RDS, ELB, etc)
 - Terraform
 - Pulumi
 - GitHub Actions
